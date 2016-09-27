@@ -7,3 +7,5 @@ Dit is de derde lijn, enkel op develop
 Dit is de vierde lijn, tweede op develop 
 
 Dis is de vijfde lijn, eerste op feature-1
+
+Dit is de zesde lijn, tweede op feature-1
